@@ -1,0 +1,20 @@
+
+Start a Local Server:
+
+Open a command prompt (Windows) or terminal (macOS/Linux).
+Navigate to the directory where the assignment files are located using the cd command.
+Once you're in the correct directory, start a local server using Python's built-in HTTP server. Run the following command:
+
+[python -m http.server]
+
+
+This command will start a local server on port 8000 by default, and it will serve files from the current directory.
+Access Your Website:
+
+Open a web browser (e.g., Google Chrome, Mozilla Firefox).
+In the address bar, type http://localhost:8000 and press Enter.
+
+Stopping the Local Server:
+
+To stop the local server, return to your command prompt or terminal window.
+Press Ctrl + C to stop the server process.
